@@ -5,6 +5,11 @@ Ce projet Hadoop MapReduce permet d'analyser des données d'incidents aériens i
 2. 📈 Le **taux de croissance annuel des incidents**
 
 ---
+📌 **Source des données :**  
+Les données proviennent de la base de données publique de l'**ICAO (International Civil Aviation Organization)**, accessible à l’adresse suivante :  
+🔗 [https://applications.icao.int/dataservices/](https://applications.icao.int/dataservices/)
+
+📅 Période couverte : **de 2008 à 2022**
 
 ## 🗂 Structure des Données
 
