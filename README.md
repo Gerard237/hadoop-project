@@ -1,7 +1,7 @@
 # ✈️ Analyse des Incidents Aériens avec Hadoop MapReduce
 
 Ce projet Hadoop MapReduce permet d'analyser des données d'incidents aériens issues de fichiers CSV, afin d'identifier :
-1. 📊 Le **nombre d’incidents par an et par pays**
+1. 📊 Le **nombre d’incidents par an et par pays de l'operateur**
 2. 📈 Le **taux de croissance annuel des incidents**
 
 ---
